@@ -1,0 +1,68 @@
+D:\MovieReviewApp\MoviewReview\MoviewReview\bin\Debug\net6.0\appsettings.Development.json
+D:\MovieReviewApp\MoviewReview\MoviewReview\bin\Debug\net6.0\appsettings.json
+D:\MovieReviewApp\MoviewReview\MoviewReview\bin\Debug\net6.0\MoviewReview.exe
+D:\MovieReviewApp\MoviewReview\MoviewReview\bin\Debug\net6.0\MoviewReview.deps.json
+D:\MovieReviewApp\MoviewReview\MoviewReview\bin\Debug\net6.0\MoviewReview.runtimeconfig.json
+D:\MovieReviewApp\MoviewReview\MoviewReview\bin\Debug\net6.0\MoviewReview.dll
+D:\MovieReviewApp\MoviewReview\MoviewReview\bin\Debug\net6.0\MoviewReview.pdb
+D:\MovieReviewApp\MoviewReview\MoviewReview\bin\Debug\net6.0\Dapper.dll
+D:\MovieReviewApp\MoviewReview\MoviewReview\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\MovieReviewApp\MoviewReview\MoviewReview\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\MovieReviewApp\MoviewReview\MoviewReview\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\MovieReviewApp\MoviewReview\MoviewReview\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\MovieReviewApp\MoviewReview\MoviewReview\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\MovieReviewApp\MoviewReview\MoviewReview\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\MovieReviewApp\MoviewReview\MoviewReview\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\MovieReviewApp\MoviewReview\MoviewReview\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\MovieReviewApp\MoviewReview\MoviewReview\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\MovieReviewApp\MoviewReview\MoviewReview\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\MovieReviewApp\MoviewReview\MoviewReview\obj\Debug\net6.0\MoviewReview.csproj.AssemblyReference.cache
+D:\MovieReviewApp\MoviewReview\MoviewReview\obj\Debug\net6.0\MoviewReview.GeneratedMSBuildEditorConfig.editorconfig
+D:\MovieReviewApp\MoviewReview\MoviewReview\obj\Debug\net6.0\MoviewReview.AssemblyInfoInputs.cache
+D:\MovieReviewApp\MoviewReview\MoviewReview\obj\Debug\net6.0\MoviewReview.AssemblyInfo.cs
+D:\MovieReviewApp\MoviewReview\MoviewReview\obj\Debug\net6.0\MoviewReview.csproj.CoreCompileInputs.cache
+D:\MovieReviewApp\MoviewReview\MoviewReview\obj\Debug\net6.0\MoviewReview.MvcApplicationPartsAssemblyInfo.cs
+D:\MovieReviewApp\MoviewReview\MoviewReview\obj\Debug\net6.0\MoviewReview.MvcApplicationPartsAssemblyInfo.cache
+D:\MovieReviewApp\MoviewReview\MoviewReview\obj\Debug\net6.0\staticwebassets.build.json
+D:\MovieReviewApp\MoviewReview\MoviewReview\obj\Debug\net6.0\staticwebassets.development.json
+D:\MovieReviewApp\MoviewReview\MoviewReview\obj\Debug\net6.0\scopedcss\bundle\MoviewReview.styles.css
+D:\MovieReviewApp\MoviewReview\MoviewReview\obj\Debug\net6.0\MoviewReview.csproj.CopyComplete
+D:\MovieReviewApp\MoviewReview\MoviewReview\obj\Debug\net6.0\MoviewReview.dll
+D:\MovieReviewApp\MoviewReview\MoviewReview\obj\Debug\net6.0\refint\MoviewReview.dll
+D:\MovieReviewApp\MoviewReview\MoviewReview\obj\Debug\net6.0\MoviewReview.pdb
+D:\MovieReviewApp\MoviewReview\MoviewReview\obj\Debug\net6.0\MoviewReview.genruntimeconfig.cache
+D:\MovieReviewApp\MoviewReview\MoviewReview\obj\Debug\net6.0\ref\MoviewReview.dll
+D:\Movie Review Applicatiton\MoviewReview\MoviewReview\bin\Debug\net6.0\appsettings.Development.json
+D:\Movie Review Applicatiton\MoviewReview\MoviewReview\bin\Debug\net6.0\appsettings.json
+D:\Movie Review Applicatiton\MoviewReview\MoviewReview\bin\Debug\net6.0\MoviewReview.exe
+D:\Movie Review Applicatiton\MoviewReview\MoviewReview\bin\Debug\net6.0\MoviewReview.deps.json
+D:\Movie Review Applicatiton\MoviewReview\MoviewReview\bin\Debug\net6.0\MoviewReview.runtimeconfig.json
+D:\Movie Review Applicatiton\MoviewReview\MoviewReview\bin\Debug\net6.0\MoviewReview.dll
+D:\Movie Review Applicatiton\MoviewReview\MoviewReview\bin\Debug\net6.0\MoviewReview.pdb
+D:\Movie Review Applicatiton\MoviewReview\MoviewReview\bin\Debug\net6.0\Dapper.dll
+D:\Movie Review Applicatiton\MoviewReview\MoviewReview\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Movie Review Applicatiton\MoviewReview\MoviewReview\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Movie Review Applicatiton\MoviewReview\MoviewReview\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Movie Review Applicatiton\MoviewReview\MoviewReview\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Movie Review Applicatiton\MoviewReview\MoviewReview\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Movie Review Applicatiton\MoviewReview\MoviewReview\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Movie Review Applicatiton\MoviewReview\MoviewReview\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Movie Review Applicatiton\MoviewReview\MoviewReview\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Movie Review Applicatiton\MoviewReview\MoviewReview\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Movie Review Applicatiton\MoviewReview\MoviewReview\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Movie Review Applicatiton\MoviewReview\MoviewReview\obj\Debug\net6.0\MoviewReview.csproj.AssemblyReference.cache
+D:\Movie Review Applicatiton\MoviewReview\MoviewReview\obj\Debug\net6.0\MoviewReview.GeneratedMSBuildEditorConfig.editorconfig
+D:\Movie Review Applicatiton\MoviewReview\MoviewReview\obj\Debug\net6.0\MoviewReview.AssemblyInfoInputs.cache
+D:\Movie Review Applicatiton\MoviewReview\MoviewReview\obj\Debug\net6.0\MoviewReview.AssemblyInfo.cs
+D:\Movie Review Applicatiton\MoviewReview\MoviewReview\obj\Debug\net6.0\MoviewReview.csproj.CoreCompileInputs.cache
+D:\Movie Review Applicatiton\MoviewReview\MoviewReview\obj\Debug\net6.0\MoviewReview.MvcApplicationPartsAssemblyInfo.cs
+D:\Movie Review Applicatiton\MoviewReview\MoviewReview\obj\Debug\net6.0\MoviewReview.MvcApplicationPartsAssemblyInfo.cache
+D:\Movie Review Applicatiton\MoviewReview\MoviewReview\obj\Debug\net6.0\staticwebassets.build.json
+D:\Movie Review Applicatiton\MoviewReview\MoviewReview\obj\Debug\net6.0\staticwebassets.development.json
+D:\Movie Review Applicatiton\MoviewReview\MoviewReview\obj\Debug\net6.0\scopedcss\bundle\MoviewReview.styles.css
+D:\Movie Review Applicatiton\MoviewReview\MoviewReview\obj\Debug\net6.0\MoviewReview.csproj.CopyComplete
+D:\Movie Review Applicatiton\MoviewReview\MoviewReview\obj\Debug\net6.0\MoviewReview.dll
+D:\Movie Review Applicatiton\MoviewReview\MoviewReview\obj\Debug\net6.0\refint\MoviewReview.dll
+D:\Movie Review Applicatiton\MoviewReview\MoviewReview\obj\Debug\net6.0\MoviewReview.pdb
+D:\Movie Review Applicatiton\MoviewReview\MoviewReview\obj\Debug\net6.0\MoviewReview.genruntimeconfig.cache
+D:\Movie Review Applicatiton\MoviewReview\MoviewReview\obj\Debug\net6.0\ref\MoviewReview.dll
