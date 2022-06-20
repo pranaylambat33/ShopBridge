@@ -4,13 +4,13 @@ import './index.css';
 import App from './App';
 
 import AppHeader from './Component/AppHeader';
-import MovieReviewComp from './Component/MovieReviewComp';
+import ProductComp from './Component/ProductComp';
 //import warebizFooter from './Component/WarebizFooter';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
-    <MovieReviewComp/>
+    <ProductComp/>
   </React.StrictMode>,
   document.getElementById('root')
 );

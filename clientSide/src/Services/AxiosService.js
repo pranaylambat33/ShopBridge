@@ -13,7 +13,7 @@ export default class AxiosService{
     }
     delete(url,data,IsRequired=false,Header){
         return Axios.delete(url,{headers:{
-            "MovieId" : data.MovieId
+            "ProductId" : data.ProductId
         }},IsRequired&&Header);
     }
 }
